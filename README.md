@@ -28,7 +28,7 @@ nano ~/.zshrc
 
 <p>Add this line at the end (replace the path with your actual one):</p>
 <pre><code class="language-bash">
-alias zno="python3 /full/path/to/Z-network/zanet.py"
+alias zno='python3 /full/path/to/Z-network/zanet.py'
 </code></pre>
 
 <p>Apply the changes:</p>
