@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.imgur.com/hOm2Afk.png" alt="Zgoogle Logo" width="180">
+</div>
+
 <h1 align="center">🔥 Z-network 🔥</h1>
 
 <p align="center">
